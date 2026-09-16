@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Kumarayush05/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0511-game-play-analysis-i](https://github.com/Kumarayush05/LeetCode/tree/master/0511-game-play-analysis-i) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Kumarayush05/LeetCode/tree/master/0441-arranging-coins) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Kumarayush05/LeetCode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
