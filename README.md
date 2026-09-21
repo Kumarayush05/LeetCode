@@ -115,3 +115,11 @@ I will continue updating my progress as I solve more problems.
 ⭐ If you find this repository useful, feel free to **star the repository**!
 
 **Keep Coding. Keep Learning. Keep Improving. 🚀**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1527-patients-with-a-condition](https://github.com/Kumarayush05/LeetCode/tree/master/1527-patients-with-a-condition) |
+<!---LeetCode Topics End-->
