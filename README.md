@@ -142,4 +142,12 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Kumarayush05/LeetCode/tree/master/0278-first-bad-version) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/Kumarayush05/LeetCode/tree/master/0290-word-pattern) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/Kumarayush05/LeetCode/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
