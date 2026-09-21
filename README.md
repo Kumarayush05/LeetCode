@@ -150,4 +150,16 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/Kumarayush05/LeetCode/tree/master/0290-word-pattern) |
+## Array
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Kumarayush05/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Kumarayush05/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Kumarayush05/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
