@@ -122,4 +122,16 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [1527-patients-with-a-condition](https://github.com/Kumarayush05/LeetCode/tree/master/1527-patients-with-a-condition) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kumarayush05/LeetCode/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kumarayush05/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kumarayush05/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
