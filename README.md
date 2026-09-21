@@ -138,10 +138,12 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Kumarayush05/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Kumarayush05/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Kumarayush05/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Kumarayush05/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Hash Table
 |  |
 | ------- |
