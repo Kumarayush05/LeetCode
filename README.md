@@ -134,4 +134,12 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kumarayush05/LeetCode/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Kumarayush05/LeetCode/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Kumarayush05/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
