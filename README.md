@@ -151,6 +151,7 @@ I will continue updating my progress as I solve more problems.
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Kumarayush05/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0290-word-pattern](https://github.com/Kumarayush05/LeetCode/tree/master/0290-word-pattern) |
 ## Array
 |  |
