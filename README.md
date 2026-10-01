@@ -157,6 +157,7 @@ I will continue updating my progress as I solve more problems.
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Kumarayush05/LeetCode/tree/master/0031-next-permutation) |
 | [0303-range-sum-query-immutable](https://github.com/Kumarayush05/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Design
 |  |
@@ -170,4 +171,8 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kumarayush05/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Kumarayush05/LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
