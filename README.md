@@ -133,6 +133,7 @@ I will continue updating my progress as I solve more problems.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kumarayush05/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Kumarayush05/LeetCode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
@@ -165,4 +166,8 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Kumarayush05/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kumarayush05/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
