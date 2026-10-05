@@ -154,6 +154,7 @@ I will continue updating my progress as I solve more problems.
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Kumarayush05/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0290-word-pattern](https://github.com/Kumarayush05/LeetCode/tree/master/0290-word-pattern) |
+| [0856-score-of-parentheses](https://github.com/Kumarayush05/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -175,4 +176,12 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Kumarayush05/LeetCode/tree/master/0031-next-permutation) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Kumarayush05/LeetCode/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Kumarayush05/LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
