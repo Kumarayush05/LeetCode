@@ -140,6 +140,7 @@ I will continue updating my progress as I solve more problems.
 | ------- |
 | [0278-first-bad-version](https://github.com/Kumarayush05/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kumarayush05/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kumarayush05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Interactive
 |  |
 | ------- |
@@ -160,6 +161,7 @@ I will continue updating my progress as I solve more problems.
 | ------- |
 | [0031-next-permutation](https://github.com/Kumarayush05/LeetCode/tree/master/0031-next-permutation) |
 | [0303-range-sum-query-immutable](https://github.com/Kumarayush05/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kumarayush05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Design
 |  |
 | ------- |
@@ -168,6 +170,7 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Kumarayush05/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kumarayush05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
 | ------- |
@@ -184,4 +187,16 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Kumarayush05/LeetCode/tree/master/0856-score-of-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kumarayush05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kumarayush05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kumarayush05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
