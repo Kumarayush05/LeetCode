@@ -154,6 +154,7 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Kumarayush05/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kumarayush05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0290-word-pattern](https://github.com/Kumarayush05/LeetCode/tree/master/0290-word-pattern) |
 | [0856-score-of-parentheses](https://github.com/Kumarayush05/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Array
@@ -178,6 +179,7 @@ I will continue updating my progress as I solve more problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kumarayush05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Kumarayush05/LeetCode/tree/master/0031-next-permutation) |
 ## Stack
 |  |
@@ -199,4 +201,20 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Kumarayush05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kumarayush05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kumarayush05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kumarayush05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kumarayush05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
