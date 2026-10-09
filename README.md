@@ -161,6 +161,7 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Kumarayush05/LeetCode/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/Kumarayush05/LeetCode/tree/master/0046-permutations) |
 | [0303-range-sum-query-immutable](https://github.com/Kumarayush05/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Kumarayush05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Design
@@ -217,4 +218,8 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kumarayush05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Kumarayush05/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
