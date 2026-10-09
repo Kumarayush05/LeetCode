@@ -126,6 +126,7 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kumarayush05/LeetCode/tree/master/0231-power-of-two) |
+| [1903-largest-odd-number-in-string](https://github.com/Kumarayush05/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,6 +160,7 @@ I will continue updating my progress as I solve more problems.
 | [0290-word-pattern](https://github.com/Kumarayush05/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Kumarayush05/LeetCode/tree/master/0344-reverse-string) |
 | [0856-score-of-parentheses](https://github.com/Kumarayush05/LeetCode/tree/master/0856-score-of-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Kumarayush05/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -198,6 +200,7 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Kumarayush05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/Kumarayush05/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
