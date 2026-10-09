@@ -162,6 +162,7 @@ I will continue updating my progress as I solve more problems.
 | [0205-isomorphic-strings](https://github.com/Kumarayush05/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Kumarayush05/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Kumarayush05/LeetCode/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/Kumarayush05/LeetCode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Kumarayush05/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Kumarayush05/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -217,6 +218,7 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kumarayush05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Kumarayush05/LeetCode/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
