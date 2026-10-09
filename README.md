@@ -150,6 +150,7 @@ I will continue updating my progress as I solve more problems.
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Kumarayush05/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Kumarayush05/LeetCode/tree/master/0290-word-pattern) |
 ## String
 |  |
@@ -158,6 +159,7 @@ I will continue updating my progress as I solve more problems.
 | [0014-longest-common-prefix](https://github.com/Kumarayush05/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kumarayush05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Kumarayush05/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Kumarayush05/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Kumarayush05/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Kumarayush05/LeetCode/tree/master/0344-reverse-string) |
 | [0856-score-of-parentheses](https://github.com/Kumarayush05/LeetCode/tree/master/0856-score-of-parentheses) |
