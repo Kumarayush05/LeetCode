@@ -155,6 +155,7 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Kumarayush05/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/Kumarayush05/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kumarayush05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Kumarayush05/LeetCode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Kumarayush05/LeetCode/tree/master/0290-word-pattern) |
@@ -164,6 +165,7 @@ I will continue updating my progress as I solve more problems.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Kumarayush05/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Kumarayush05/LeetCode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Kumarayush05/LeetCode/tree/master/0046-permutations) |
 | [0303-range-sum-query-immutable](https://github.com/Kumarayush05/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -229,4 +231,8 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Kumarayush05/LeetCode/tree/master/0046-permutations) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kumarayush05/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
