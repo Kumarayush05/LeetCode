@@ -142,6 +142,7 @@ I will continue updating my progress as I solve more problems.
 | [0278-first-bad-version](https://github.com/Kumarayush05/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kumarayush05/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Kumarayush05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Kumarayush05/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Interactive
 |  |
 | ------- |
@@ -173,6 +174,7 @@ I will continue updating my progress as I solve more problems.
 | [0046-permutations](https://github.com/Kumarayush05/LeetCode/tree/master/0046-permutations) |
 | [0303-range-sum-query-immutable](https://github.com/Kumarayush05/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Kumarayush05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Kumarayush05/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Design
 |  |
 | ------- |
@@ -206,6 +208,7 @@ I will continue updating my progress as I solve more problems.
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Kumarayush05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Kumarayush05/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Kumarayush05/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -214,6 +217,7 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Kumarayush05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Kumarayush05/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -239,4 +243,8 @@ I will continue updating my progress as I solve more problems.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kumarayush05/LeetCode/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Kumarayush05/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
